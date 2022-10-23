@@ -1,6 +1,7 @@
 # The Adventures of Garnet
 
 The Adventures of Garnet is an adult eroge game made in RPG Maker XP, created by qwerty123000.
+
 This version is for testing and trying to rebalance the relation between pc and npc's
 
 
